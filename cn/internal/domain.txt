@@ -29,7 +29,7 @@
 29=php1_select 和 php2_select 必须是 1 或者 2
 30=PHP版本选择
 31=Handler
-32=Extension
+32=扩展名
 33=保存
 34=首要PHP
 35=次要PHP

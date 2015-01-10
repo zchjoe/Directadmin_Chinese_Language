@@ -12,4 +12,4 @@
 12=删除
 13=选择
 14=用户
-15=无效的E-Mail地址。DirectAdmin login username also allowed
+15=无效的E-Mail地址。DirectAdmin登陆用户名可以使用

@@ -96,11 +96,11 @@
 96=答案
 97=安全问题中存在无效字符
 98=安全问题太长，最长应为 max=%d
-99=%sThe question was:%c'%s'%swith the incorrect answer of:%c'%s'
+99=%s安全问题是:%c'%s'%s 错误的回答:%c'%s'
 100=因此
 101=区分大小写
 102=文件总数
-103=Group %s already exists. Please chose a different username.
+103=组 %s 已经存在。请选择一个不同的用户名。
 104=太短
 105=太长
 106=已经存在

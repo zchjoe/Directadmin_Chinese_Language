@@ -12,7 +12,7 @@
 12=First Page
 13=Last Page
 14=Advanced Search
-15=无数据
+15=No Data to Show
 16=equals
 17=at least
 18=at most
