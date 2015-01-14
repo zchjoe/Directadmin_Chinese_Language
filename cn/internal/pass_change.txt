@@ -15,7 +15,7 @@
 15=无法读取domainowners文件
 16=保存密码过程中有错误发生
 17=密码已保存
-18=A message for that user already exists
+18=指定用户的假期消息已经存在
 19=假期信息设置
 20=假期信息已经更新
 21=假期信息已经删除
