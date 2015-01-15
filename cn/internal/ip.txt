@@ -18,7 +18,7 @@
 18=从代理商名下删除
 19=清除NS
 20=删除选中
-21=分销商
+21=代理商
 22=子网掩码
 23=网关
 24=添加到DNS
@@ -34,5 +34,5 @@
 34=Flush from DNS
 35=重写 Apache
 36=应用到已有的域名
-37=Variable 'ip' is missing from the submission
+37=提交的过程中缺少变量 'ip' 
 38=无法找到任何 IP 可以分配给用户。请确保代理商的 ip.list 有一些可用的IP.
