@@ -561,3 +561,4 @@
 561=Paths Unblocked
 562=Double click for main domain page
 563=Nginx is not enabled
+564=Settings
