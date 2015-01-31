@@ -8,6 +8,9 @@
   - NewWorld风格语言包专用，Special for Skin NewWorld, no need to download if you are using Enhanced.
 
 ### 更新说明
+1.47.0.4
+* 同步NeWorld风格语言包
+
 1.47.0.3
 * 恢复/internal/clear_message_system_list.txt必要部分为英文
 * 修正用户层Catch-all邮件配置的翻译
@@ -16,7 +19,6 @@
 
 1.47.0.2
 * 删除了多余的语言以保证语言包的纯净
-* 添加新的目录NewWorld以便近日于风格同步，尚未开始更新请勿下载
 
 1.47.0.1
 * 基于1.47.0添加新的语言/admin/admin_settings.html，internal/ticket.txt，user/ticket/main.html
